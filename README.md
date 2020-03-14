@@ -1,5 +1,5 @@
 # FA_Assignments
-## Assignment 1 - lab01
+### Assignment 1 - lab01
 Analysis & Comparison of Direct Sorting Methods
 
 ### Assignment 2 - lab02
